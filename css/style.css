@@ -35,11 +35,12 @@ border: 3px solid #000;
 	  }
 .right{
 		margin:30px;
-		float: left;
+		float: right;
 		width:42%;
 		text-align:center;
    font-family: times new roman;
     border: 2px solid black;
   margin-top: 30px;
   height: 250px;
+  line-height: 50px;
 	  }
